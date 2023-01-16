@@ -1,0 +1,9 @@
+G:\DESARep\BaseNetStandar\00_Transversal\BaseCom.Validacion\src\bin\Debug\net48\BaseCom.Validacion.dll
+G:\DESARep\BaseNetStandar\00_Transversal\BaseCom.Validacion\src\bin\Debug\net48\BaseCom.Validacion.pdb
+G:\DESARep\BaseNetStandar\00_Transversal\BaseCom.Validacion\src\obj\Debug\net48\BaseCom.Validacion.csproj.AssemblyReference.cache
+G:\DESARep\BaseNetStandar\00_Transversal\BaseCom.Validacion\src\obj\Debug\net48\BaseCom.Validacion.GeneratedMSBuildEditorConfig.editorconfig
+G:\DESARep\BaseNetStandar\00_Transversal\BaseCom.Validacion\src\obj\Debug\net48\BaseCom.Validacion.AssemblyInfoInputs.cache
+G:\DESARep\BaseNetStandar\00_Transversal\BaseCom.Validacion\src\obj\Debug\net48\BaseCom.Validacion.AssemblyInfo.cs
+G:\DESARep\BaseNetStandar\00_Transversal\BaseCom.Validacion\src\obj\Debug\net48\BaseCom.Validacion.csproj.CoreCompileInputs.cache
+G:\DESARep\BaseNetStandar\00_Transversal\BaseCom.Validacion\src\obj\Debug\net48\BaseCom.Validacion.dll
+G:\DESARep\BaseNetStandar\00_Transversal\BaseCom.Validacion\src\obj\Debug\net48\BaseCom.Validacion.pdb

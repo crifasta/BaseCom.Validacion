@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EgjNrr4Hdvhj2mP9xlJRXuxp/EEhQfd9yWzliDUQZXN8bqaFDoPs/jYajxb7ScfmfKwHiGDB4zU9cqWjrB9V5g==",
+  "success": true,
+  "projectFilePath": "G:\\DESARep\\BaseNetStandar\\00_Transversal\\BaseCom.Validacion\\src\\BaseCom.Validacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\crifa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\crifa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

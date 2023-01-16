@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Common.Validation.ResultadoValidacionReglaDeNegocio" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAABAAAAAAAAAAAAAAACAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Base\RuleVal\ResultadoValidacionReglaDeNegocio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.Validation.Validador" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIGAAAQAQAIAAAIAAQAACAAAAAAIAQAAAAAAAAAAAEE=</HashCode>
+      <FileName>Base\RuleVal\Validador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.Validation.ValidadorBase&lt;TValidator, TValue&gt;" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAAAAAAQAIAAAAAAIAGACBCAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Base\RuleVal\ValidadorBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.Validation.ValidadorBooleano" Collapsed="true">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base\RuleVal\Validadores\ValidadorBooleano.cs</FileName>
+      <NewMemberFileName>Validadores\ValidadorBooleano.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.Validation.ValidadorDecimal" Collapsed="true">
+    <Position X="3.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base\RuleVal\Validadores\ValidadorDecimal.cs</FileName>
+      <NewMemberFileName>Validadores\ValidadorDecimal.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.Validation.ValidadorDeEntero" Collapsed="true">
+    <Position X="4.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAACAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base\RuleVal\Validadores\ValidadorDeEntero.cs</FileName>
+      <NewMemberFileName>Validadores\ValidadorDeEntero.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.Validation.ValidadorDeFecha" Collapsed="true">
+    <Position X="1" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAQABAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Base\RuleVal\Validadores\ValidadorDeFecha.cs</FileName>
+      <NewMemberFileName>Validadores\ValidadorDeFecha.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.Validation.ValidadorString" Collapsed="true">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gGEAwIAAAAEAABAAAAEAhEAAAAAAAAiAIAAAEAAAAAA=</HashCode>
+      <FileName>Base\RuleVal\Validadores\ValidadorString.cs</FileName>
+      <NewMemberFileName>Validadores\ValidadorString.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

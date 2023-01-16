@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaseCom.Validacion", "src\BaseCom.Validacion.csproj", "{24083ED4-E3C0-45D5-90F1-20B9D857999E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24083ED4-E3C0-45D5-90F1-20B9D857999E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24083ED4-E3C0-45D5-90F1-20B9D857999E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24083ED4-E3C0-45D5-90F1-20B9D857999E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24083ED4-E3C0-45D5-90F1-20B9D857999E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7250242-A6C7-46A4-816A-A154C2E3F0A0}
+	EndGlobalSection
+EndGlobal
